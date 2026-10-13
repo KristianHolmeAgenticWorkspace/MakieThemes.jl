@@ -11,7 +11,7 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 [compat]
 Colors = "0.11, 0.12, 0.13"
 Makie = "0.19, 0.20, 0.21, 0.22, 0.23, 0.24"
-julia = "1"
+julia = "1.10"
 
 [extras]
 AlgebraOfGraphics = "cbdf2221-f076-402e-a563-3d30da359d67"
